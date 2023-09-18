@@ -18,6 +18,7 @@ INSTALLED_APPS = [
     #custom apps
     'core',
     'user',
+    'recipe',
     #third party apps
     'rest_framework',
     'rest_framework.authtoken',
